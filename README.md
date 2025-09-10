@@ -60,13 +60,7 @@ The goal is to help the car dealership track and analyze sales performance acros
 ---
 
 ## 📸 Dashboard Preview  
-![Car Sales Dashboard](Capture%20d’écran%202025-09-10%20094225.png)  
+![(Capture%20d’écran%202025-09-10%20094225.png) ](https://github.com/chakibbel/Car-sales-analysis-and-dashboard/blob/main/Car-Sales-Dashboard) 
 
 ---
 
-## 🧑‍💻 Author  
-**Chakib B.** – Aspiring Data Analyst  
-- 📍 Montreal, QC  
-- 🎓 IBM Data Analyst & Microsoft Power BI Certified  
-- 💼 Portfolio: [Your GitHub Profile Link]  
----
